@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A NY-based full stack web developer.</h3>
 
-<p align="left"> <a href="https://twitter.com/traffyy_dev" target="blank"><img src="https://img.shields.io/twitter/follow/traffyy_dev?logo=twitter&style=for-the-badge" alt="traffyy_dev" /></a> </p>
-
 - 🔭 I’m currently working on [Project Management Tool](https://www.rt-projectmanager.com/)
 
 - 🌱 I’m currently learning **TypeScript, Golang, and GraphQL**
@@ -19,7 +17,6 @@
 <p align="left">
 <a href="https://twitter.com/traffyy_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="traffyy_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ryan-traficante/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ryan-traficante/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rtraficante22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rtraficante22" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
