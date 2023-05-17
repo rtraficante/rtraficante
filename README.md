@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [taskform.](https://www.rt-projectmanager.com/)
 
-- 🌱 I’m currently learning **TypeScript, Golang, and GraphQL**
+- 🌱 I’m currently learning **AWS, Golang, and TRPC**
 
 - 👨‍💻 All of my projects are available at [https://www.ryantraficante.com/](https://www.ryantraficante.com/)
 
-- 💬 Ask me about **React, Node, Express.js, and PostgreSQL**
+- 💬 Ask me about **React, Node, Typescript, and PostgreSQL**
 
 - 📫 How to reach me **rtraficante22@gmail.com**
 
